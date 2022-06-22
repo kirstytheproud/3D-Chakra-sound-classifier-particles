@@ -3,7 +3,7 @@
 Sound reactive chakra meditation app with 3D particles
 </p>
 <p>
-View Link <a href="https://kirstytheproud.github.io/3D-Chakra-sound-classifier-particles/" target="__blank">HERE </a>
+View Link <a href="https://kirstytheproud.github.io/3D-Chakra-sound-classifier-particles/" target="_blank">HERE </a>
  </p>
  <img src="https://user-images.githubusercontent.com/37534696/174992831-4dd71963-71d8-42ea-82cc-4ae6dc366088.gif"/>
 <br>
